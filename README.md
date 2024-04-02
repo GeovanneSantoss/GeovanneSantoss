@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, Eu sou Geovanne</h1>
 <h3 align="center">Apaixonado em análise de dados e no mundo digital</h3>
 
-- 🌱 Atualmente estou estudando **Analise de dados, Java, Excel**
+- 🌱 Atualmente estou estudando **Analise de dados, Java, Excel, Ingles**
 
-- 💬 Me pergunte sobre **Mysql,Java, Excel**
+- 💬 Me pergunte sobre **Mysql,Java, Excel, Ingles Intermediario**
 
 - 📫 Você me acha através do gmail **geovanehackueo@gmail.com**
 
