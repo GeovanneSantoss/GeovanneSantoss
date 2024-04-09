@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou Geovanne</h1>
 <h3 align="center">Apaixonado em análise de dados e no mundo digital</h3>
 
-- 🌱 Atualmente estou estudando **Analise de dados, Java, Excel, Ingles**
+- 🌱 Atualmente estou estudando **Analise de dados, Java, Excel, Ingles, python**
 
 - 💬 Me pergunte sobre **Mysql,Java, Excel, Ingles Intermediario**
 
